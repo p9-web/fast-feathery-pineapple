@@ -52,5 +52,5 @@ app.use(express.notFound());
 app.use(express.errorHandler({ logger }));
 
 app.hooks(appHooks);
-console.log('Ready to fly you to the moon and let you swing among the stars! Ready to let you see what spring is like on Jupiter and Mars...');
+console.log('Fly me to the moon and let me swing among the stars... Let me see what spring is like on Jupiter and Mars...');
 module.exports = app;
