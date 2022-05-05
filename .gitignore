@@ -13,8 +13,8 @@ lerna-debug.log*
 *.local
 
 # Editor directories and files
-.vscode
-.idea
+.vscode/
+.idea/
 .DS_Store
 *.suo
 *.ntvs*

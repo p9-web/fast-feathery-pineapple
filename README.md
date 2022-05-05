@@ -7,6 +7,7 @@
 - **[Feathers-Pinia](https://feathers-pinia.pages.dev/)**;
 - **[Feathers.js](https://feathersjs.com/)**;
 - **[Sequelize](https://sequelize.org/)**;
+- **[Quasar](https://quasar.dev/)**;
 
 ## Installation
 ```
